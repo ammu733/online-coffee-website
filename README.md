@@ -1,4 +1,4 @@
-# Brew Bliss Coffee Website
+# Coffee Website
 
 ## Introduction:
 
