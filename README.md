@@ -1,8 +1,8 @@
-# Coffee Website
+# Coffea Coffee Website
 
 ## Introduction:
 
-Welcome to Brew Bliss Coffee's website repository. This readme file provides an overview of the project, its team members, technologies used, and cloud services integrated.
+Welcome to Coffea Coffee's website repository. This readme file provides an overview of the project, its team members, technologies used, and cloud services integrated.
 
 ## Team Members:
 
