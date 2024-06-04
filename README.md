@@ -13,7 +13,11 @@ Welcome to Coffea Coffee's website repository. This readme file provides an over
 
 ## Title Description:
 
-"Join us on a journey of discovery as we explore the world of coffee together, one delicious cup at a time. Welcome to [Coffee Haven], where every sip is an adventure." 
+"Join us on a journey of discovery as we explore the world of coffee together, one delicious cup at a time. Welcome to [Coffee Haven], where every sip is an adventure." At Coffee Cove, we're passionate about crafting the perfect cup, sourcing the finest beans from around the globe. Dive into our world of flavor, where every roast tells a unique story. Join our community, explore our brewing techniques, and embark on a journey of coffee discovery like no other. Welcome to Coffee Cove, where every sip is an adventure.
+
+
+
+
 
 ## Technologies Used:
 
