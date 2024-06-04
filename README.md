@@ -13,7 +13,7 @@ Welcome to Coffea Coffee's website repository. This readme file provides an over
 
 ## Title Description:
 
-"Join us on a journey of discovery as we explore the world of coffee together, one delicious cup at a time. Welcome to [Coffee Haven], where every sip is an adventure." the di join us on a journey of discovery as we explore the world of cofee
+"Join us on a journey of discovery as we explore the world of coffee together, one delicious cup at a time. Welcome to [Coffee Haven], where every sip is an adventure." 
 
 ## Technologies Used:
 
