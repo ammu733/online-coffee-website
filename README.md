@@ -13,7 +13,7 @@ Welcome to Coffea Coffee's website repository. This readme file provides an over
 
 ## Title Description:
 
-"A website provides your customers with vital information about your coffee shop, and entertaining content to get customers engaged with your brand."
+"Join us on a journey of discovery as we explore the world of coffee together, one delicious cup at a time. Welcome to [Coffee Haven], where every sip is an adventure."
 
 ## Technologies Used:
 
