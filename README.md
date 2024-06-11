@@ -2,6 +2,7 @@
 
 ## Introduction:
 
+
 Welcome to Coffea Coffee's website repository. This readme file provides an overview of the project, its team members, technologies used, and cloud services integrated.
 
 ## Team Members:
