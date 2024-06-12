@@ -103,6 +103,16 @@ We value your feedback! If you have any suggestions, comments, or issues, please
 ![3f0eb831-1f3b-4bf9-b8eb-cb252c09eefe](https://github.com/ammu733/online-coffee-website/assets/144894902/b2a3e66b-606d-45f9-b0bb-bea2dc52d2d2)
 
 
+![9c72efe1-8513-40a1-9b13-582f40d4f80d](https://github.com/ammu733/online-coffee-website/assets/144894811/993347b1-dd87-4025-a939-96d2f106576e)
+
+![73cb24ff-c020-482b-90dd-aca3f63c9cc0](https://github.com/ammu733/online-coffee-website/assets/144894811/5aa4f03a-b563-4b18-94cc-c2b8094f1a3b)
+
+![ee71c43f-4f3f-4268-8f63-c5d1c5142cc9](https://github.com/ammu733/online-coffee-website/assets/144894902/c007f948-c82c-4e7f-9d0a-f2a5dbccfcc2)
+
+
+
+
+
 
 
 
