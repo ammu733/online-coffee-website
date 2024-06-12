@@ -85,11 +85,28 @@ We value your feedback! If you have any suggestions, comments, or issues, please
 
 ![8a625ce9-4775-44b4-96e6-ad8495c1531e](https://github.com/ammu733/online-coffee-website/assets/144894811/36474811-acc4-4c37-a140-5620de020605)
 
+![65435ee0-9505-4e9a-8be5-41f8f07b54f7](https://github.com/ammu733/online-coffee-website/assets/144894902/51ddc5a5-8c09-47f5-9ac9-3df95a52c1bf)
+
+
 ![45a94954-38cf-40cf-8322-e59cdcc46378](https://github.com/ammu733/online-coffee-website/assets/144894811/97906914-7172-4e42-85ce-d01cbd7bfcbf)
 
 ![9c72efe1-8513-40a1-9b13-582f40d4f80d](https://github.com/ammu733/online-coffee-website/assets/144894811/993347b1-dd87-4025-a939-96d2f106576e)
 
 ![73cb24ff-c020-482b-90dd-aca3f63c9cc0](https://github.com/ammu733/online-coffee-website/assets/144894811/5aa4f03a-b563-4b18-94cc-c2b8094f1a3b)
+
+![ee71c43f-4f3f-4268-8f63-c5d1c5142cc9](https://github.com/ammu733/online-coffee-website/assets/144894902/c007f948-c82c-4e7f-9d0a-f2a5dbccfcc2)
+
+![cb359727-233a-4669-ab73-46b452269aca](https://github.com/ammu733/online-coffee-website/assets/144894902/27d3fd1c-20dd-4400-9202-131fdce1d09b)
+
+![831d2462-f0b4-402a-a537-e24acf2c1e69](https://github.com/ammu733/online-coffee-website/assets/144894902/dcc7d6b5-abe9-4e12-b0e4-2c6260747a41)
+
+![3f0eb831-1f3b-4bf9-b8eb-cb252c09eefe](https://github.com/ammu733/online-coffee-website/assets/144894902/b2a3e66b-606d-45f9-b0bb-bea2dc52d2d2)
+
+
+
+
+
+
 
 
 
