@@ -43,7 +43,7 @@ Welcome to Coffea Coffee's website repository. This readme file provides an over
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
 - Implement your changes.
-- Submit a pull request detailing your changes for review.
+- Submit a pull request detailing your changes for review .
 
 ## Feedback:
 
